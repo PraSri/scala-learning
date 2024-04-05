@@ -1,5 +1,6 @@
 # scala-learning
 Learning Scala
+https://riptutorial.com/scala
 
 # Learn flatMap
 https://alvinalexander.com/scala/collection-scala-flatmap-examples-map-flatten/
